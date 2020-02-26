@@ -1,3 +1,9 @@
 
 tmp/
 node_modules
+.nuxt/
+/config
+public/*
+/debug.pid
+/release.js
+/test.js

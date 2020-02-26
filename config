@@ -9,3 +9,5 @@ mail_address_from               : your@yourwebsite.com
 mail_address_reply              : your@yourwebsite.com
 mail_address_copy               :
 mail_contact                    : petersirka@gmail.com
+
+access-origin                   : *
