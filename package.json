@@ -1,15 +1,31 @@
 {
-	"name": "emptyproject",
+	"name": "testproject",
 	"description": "Total.js empty project.",
 	"version": "1.0.0",
 	"main": "debug.js",
 	"dependencies": {
+		"@nuxtjs/axios": "^5.9.5",
+		"bootstrap": "^4.4.1",
+		"bootstrap-vue": "^2.4.2",
+		"file-type": "^14.1.3",
+		"mime-types": "^2.1.26",
+		"nuxt": "^2.11.0",
+		"read-chunk": "^3.2.0",
+		"semantic-ui-css": "^2.4.1",
+		"semantic-ui-vue": "^0.10.1",
 		"total.js": "latest"
 	},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "node debug.js"
 	},
-	"keywords": ["empty", "project"],
-	"author": "Peter Širka",
-	"license": "MIT"
+	"keywords": [
+		"test",
+		"project"
+	],
+	"author": "Bokki Ryu",
+	"license": "",
+	"devDependencies": {
+		"@nuxtjs/tailwindcss": "^1.3.2"
+	}
 }
