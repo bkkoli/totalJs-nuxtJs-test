@@ -1,4 +1,4 @@
-# Total.js: Empty Project - Full website example
+# Total.js - Nuxt.js: Empty Project - Full website example
 
 - download example
 - open terminal / command-line
